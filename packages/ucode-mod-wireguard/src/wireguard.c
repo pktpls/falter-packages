@@ -103,6 +103,7 @@ typedef struct {
 
 // static unsigned int uc_wg_default_port = 51820;
 
+// TODO credits and license, i think this is from wg-tools
 static inline bool
 uc_wg_parse_endpoint(uc_wg_addr_t *endpoint, const char *value)
 {

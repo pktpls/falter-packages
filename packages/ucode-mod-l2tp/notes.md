@@ -1,6 +1,14 @@
 
 # ucode-mod-l2tp
 
+## testing
+
+ip netns add server
+ip netns add uplink
+ip netns add client
+
+...
+
 ## tunneldigger
 
 context_process()
