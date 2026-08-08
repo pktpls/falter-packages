@@ -1,0 +1,3 @@
+.warning:has(a.btn[href*="/admin/system/admin"]) {
+  display: none;
+}
